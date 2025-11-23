@@ -13,7 +13,7 @@ DevOps Engineer • Cloud • Automation • CI/CD
 ## 🛠️ Core DevOps Skills
 
 ### ☁️ Cloud
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="24" alt="AWS" /> AWS
+- AWS
 
 ### 🐳 Containers & Orchestration
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="20" alt="Docker" /> Docker  
