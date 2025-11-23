@@ -4,7 +4,7 @@
 DevOps Engineer • Cloud • Automation • CI/CD  
 
 <!-- GIF properly displayed under the name -->
-<img src="https://media.giphy.com/media/kgUkCLMu3xhw1T6txv/giphy.gif" width="400" />
+<img src="[https://media.giphy.com/media/kgUkCLMu3xhw1T6txv/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjVmZ2ZteDR6Nmg3NGZkamtldnNvaDV6YW1xbW42OW80dzJneWMzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kgUkCLMu3xhw1T6txv/giphy.gif)" width="400" />
 
 ---
 </div>
