@@ -1,71 +1,70 @@
-<!-- Banner -->
+<!-- Custom Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zingmars/awesome-readme-assets/main/banners/devops-cloud-dark.gif" width="100%" />
+  <img src="https://i.imgur.com/jx17v5S.gif" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Matan Zrihan</h1>
-<p align="center">DevOps Engineer • Cloud • Automation • CI/CD • Kubernetes</p>
+<h1 align="center">Matan Zrihen — DevOps Engineer</h1>
+<p align="center">Cloud | Kubernetes | Automation | CI/CD | Infrastructure as Code</p>
 
 ---
 
 ## 🧭 About Me
-- DevOps engineer specializing in building scalable, automated cloud infrastructures.  
-- Hands-on experience with AWS, Kubernetes, Terraform, CI/CD and container platforms.  
-- Focused on reliability, automation, observability and production-grade systems.  
-- Strong background in Linux, networking, scripting and cloud-native technologies.  
+- DevOps Engineer focusing on cloud-native infrastructure, automation, and scalability.  
+- Experience in Kubernetes, AWS, CI/CD, Terraform, observability, and production systems.  
+- Strong background in Linux, networking, and distributed environments.  
+- Building reliable, self-healing, automated infrastructure.
 
 ---
 
-## ⚙️ Core DevOps Skills
+## ⚙️ DevOps Tech Stack (with Images)
 
-### ☁️ **Cloud Providers**
-- AWS  
-
+### ☁️ **Cloud**
+<p>
+  <img src="https://i.imgur.com/mOZz1YB.png" width="90"> 
+  <img src="https://i.imgur.com/svMFN7x.png" width="90"> 
+  <img src="https://i.imgur.com/UWrIMeR.png" width="90">
+</p>
 
 ### 🐳 **Containers & Orchestration**
-- Docker  
-- Kubernetes  
-- Helm  
-- Docker Compose  
+<p>
+  <img src="https://i.imgur.com/OE6YFail.png" width="90">
+  <img src="https://i.imgur.com/DHh6h3u.png" width="90">
+  <img src="https://i.imgur.com/xTb6uOS.png" width="90">
+  <img src="https://i.imgur.com/B1VJtK2.png" width="90">
+</p>
 
-### 🏗️ **Infrastructure as Code (IaC)**
-- Terraform  
-- Ansible  
+### 🏗️ **IaC & Automation**
+<p>
+  <img src="https://i.imgur.com/zP5kJpw.png" width="90">
+  <img src="https://i.imgur.com/3VXW8vK.png" width="90">
+  <img src="https://i.imgur.com/9EGj33P.png" width="90">
+</p>
 
-### ♾️ **CI/CD & Automation**
-- GitHub Actions  
-- Jenkins  
-- ArgoCD  
- 
-### 🔍 **Monitoring, Logging & Observability**
-- Prometheus  
-- Grafana  
+### 🔍 **Monitoring & Observability**
+<p>
+  <img src="https://i.imgur.com/V8hT1HK.png" width="90">
+  <img src="https://i.imgur.com/VTGJx3H.png" width="90">
+  <img src="https://i.imgur.com/KsUjptB.png" width="90">
+  <img src="https://i.imgur.com/fNyQmxu.png" width="90">
+</p>
 
-### 🖥️ **Operating Systems & Languages**
-- Linux 
-- Bash  
-- Python  
-- YAML / JSON  
-
----
-
-## 🧩 Key Domains
-- Cloud Architecture  
-- Scalable CI/CD Pipelines  
-- Kubernetes Operations  
-- Infrastructure Automation  
-- Production Reliability (SRE)  
+### 🖥️ **Languages & OS**
+<p>
+  <img src="https://i.imgur.com/cC7qF7Y.png" width="90">
+  <img src="https://i.imgur.com/RJj3MqF.png" width="90">
+  <img src="https://i.imgur.com/PaX6bpu.png" width="90">
+</p>
 
 ---
 
-## ✨ Animated Tech Stack (Visual Overview)
+## ✨ Animated DevOps Concepts
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/itstommi/itstommi/main/assets/tech-cloud.gif" width="500">
+  <img src="https://i.imgur.com/fgQpB1V.gif" width="500">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/itstommi/itstommi/main/assets/devops-cycle.gif" width="500">
+  <img src="https://i.imgur.com/LQJk8qD.gif" width="500">
 </p>
 
 ---
@@ -88,7 +87,7 @@
 </tr>
 </table>
 
----
+
 
 ## 📫 Contact  
 - LinkedIn: https://www.linkedin.com/in/matanzrihan/
