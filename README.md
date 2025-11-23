@@ -3,17 +3,17 @@
 # 👋 Matan Zrihan
 DevOps Engineer • Cloud • Automation • CI/CD  
 
-<!-- GIF under the name -->
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YThhczAxazFtdWU2NjdwZ3ZzNGt1MnZ5djQ2bHoxOG9kcWgxNzA2aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kgUkCLMu3xhw1T6txv/giphy.gif" width="400" />
-
-</div>
+<!-- GIF properly displayed under the name -->
+<img src="https://media.giphy.com/media/kgUkCLMu3xhw1T6txv/giphy.gif" width="400" />
 
 ---
 
 ## 🛠️ Core DevOps Skills
 
 ### ☁️ Cloud
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" height="30"/> AWS  
+- AWS  
+### ☁️ Cloud
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="80" /> AWS  
 
 ### 🐳 Containers & Orchestration
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="30"/> Docker  
