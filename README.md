@@ -1,16 +1,69 @@
-## Hi there 👋
+<!-- Title -->
+<h1 align="center">Matan Zrihan — DevOps Engineer</h1>
+<p align="center">Cloud • Automation • Containers • Infrastructure • CI/CD</p>
 
-<!--
-**matanzh55/matanzh55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## ⚙️ Core Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ☁️ Cloud Platforms
+- AWS  
+
+### 🐳 Containers & Orchestration
+- Docker  
+- Kubernetes  
+- Helm  
+- Docker Compose  
+
+### ♾️ CI/CD & Automation Tools
+- GitHub Actions  
+- Jenkins  
+- ArgoCD  
+
+### 🏗️ Infrastructure as Code
+- Terraform  
+- Ansible  
+
+### 🔍 Monitoring, Logging & Observability
+- Prometheus  
+- Grafana  
+ 
+### 🖥️ Operating Systems & Languages
+- Linux   
+- Bash  
+- Python  
+- YAML / JSON  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TomiPik&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=TomiPik&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomiPik&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📁 Relevant Areas
+- Cloud Infrastructure Architecture  
+- Container Platforms  
+- CI/CD Pipelines  
+- Infrastructure as Code (IaC)  
+- Reliability Engineering (SRE)  
+
+---
+
+## 📫 Contact  
+- LinkedIn: https://www.linkedin.com/in/matanzrihan/
+- Email: matanzh2345@gmail.com  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TomiPik&color=blue" />
+</p>
